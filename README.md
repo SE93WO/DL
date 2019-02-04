@@ -1,5 +1,5 @@
 CVND
------
+----
 My solutions to the projects assigned for the Udacity Computer Vision Nanodegree
 
 Project | Concepts | Tools 
@@ -14,7 +14,7 @@ Implementation
 --------------
 CV papers implement a Deep Learning Paper to get some hands on the current state of the art model or current field of research.
  
-### Architecture:
+### Architectures:
 * [Alexnet](Implementation/Architectures/Alexnet)
 * [VGG16](Implementation/Architectures/VGG16)
 * [Resnet](Implementation/Architectures/Resnet)
@@ -22,3 +22,7 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 * [Inception](Implementation/Architectures/Inception)
 * [Xception](Implementation/Architectures/Xception)
 * [MobileNet](Implementation/Architectures/MobileNet)
+
+Kaggle
+------
+Kaggle competitions
