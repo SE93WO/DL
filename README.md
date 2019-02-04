@@ -1,5 +1,5 @@
 CVND
-----
+====
 My solutions to the projects assigned for the Udacity Computer Vision Nanodegree
 
 Project | Concepts | Tools 
@@ -11,7 +11,7 @@ Project | Concepts | Tools
 Further explorations of computer vision related topics, such as image segmentation, detection of corners, edges, and contours, k-means clustering, ORB and HOG feature vectors, CNNs, and YOLO, can be found in the [Exercises](CVND/Exercises) folder.
 
 Implementation
---------------
+==============
 CV papers implement a Deep Learning Paper to get some hands on the current state of the art model or current field of research.
  
 ### Architectures:
@@ -24,5 +24,5 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 * [MobileNet](Implementation/Architectures/MobileNet)
 
 Kaggle
-------
+======
 Kaggle competitions
