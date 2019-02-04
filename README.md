@@ -15,4 +15,4 @@ Implementation
 CV papers implement a Deep Learning Paper to get some hands on the current state of the art model or current field of research.
  
 ### Architecture:
-* [Alexnet](ML/Implementation/Architectures/Alexnet)
+* [Alexnet](Implementation/Architectures/Alexnet)
