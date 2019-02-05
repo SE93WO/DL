@@ -1,3 +1,4 @@
 Exercise | Concepts | Tools 
 --- | --- | ---
-[Image_Representation_and_Classification](1_4_Image_Representation_and_Classification) | Visualizing image | OpenCV, numpy
+[Image_Representation_and_Classification](1_4_Image_Representation_and_Classification) | RGB Channel, Standardizing, Visualizing | OpenCV
+[Convolutional_Filters_and_Edge_Detection](1_5_Convolutional_Filters_and_Edge_Detection) | Fourier transform, Gaussian blur, Canny edge detection, Hough, Haar Cascade, Face Detection | OpenCV, numpy
