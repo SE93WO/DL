@@ -6,6 +6,6 @@ Carvana, a successful online used car startup, has seen opportunity to build lon
 
 An interesting part of their innovation is a custom rotating photo studio that automatically captures and processes 16 standard images of each vehicle in their inventory. While Carvana takes high quality photos, bright reflections and cars with similar colors as the background cause automation errors, which requires a skilled photo editor to change.
 
-![carvana](Kaggle/Carvana_Image_Masking_Challenge/carvana_graphics.png)
+![carvana](/carvana_graphics.png)
 
 In this competition, you’re challenged to develop an algorithm that automatically removes the photo studio background. This will allow Carvana to superimpose cars on a variety of backgrounds. You’ll be analyzing a dataset of photos, covering different vehicles with a wide variety of year, make, and model combinations.
