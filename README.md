@@ -23,6 +23,8 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 * [Xception](Implementation/Architectures/Xception)
 * [MobileNet](Implementation/Architectures/MobileNet)
 
+### Semantic Segmentation:
+* [UNet](Implementation/Semantic_Segmentation/UNet)
 Kaggle
 ======
 Kaggle competitions
