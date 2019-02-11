@@ -4,7 +4,7 @@ My solutions to the projects assigned for the Udacity Computer Vision Nanodegree
 
 Project | Concepts | Tools 
 --- | --- | ---
-[Facial Keypoints](CVND/Facial_Keypoints) | Face Detection, Haar Cascades, CNNs, keypoints | OpenCV, pytorch
+[Facial Keypoints](CVND/Project/Facial_Keypoint_Detection) | Face Detection, Haar Cascades, CNNs, keypoints | OpenCV, pytorch
 [Image Captioning](CVND/Image_Captioning) |  COCO dataset, transfer learning, EncoderCNN/DecoderRNN, LSTMs, feature vectors, word embeddings | pytorch, torchvision, nltk
 [Implement SLAM](CVND/Implement_SLAM) | Offline SLAM, Online SLAM  | numpy, pandas, seaborn
 
@@ -32,3 +32,4 @@ Competitions | description |
 [Digit Recognizer](Kaggle/Digit_Recognizer) | Learn computer vision fundamentals with the famous MNIST data
 [Titanic](Kaggle/Titanic) | Predict survival on the Titanic
 [Google Analytics Customer Revenue Prediction](Kaggle/GACRP) | Predict how much GStore customers will spend
+[Carvana Image Masking Challenge](Kaggle/Carvana_Image_Masking_Challenge) | Automatically identify the boundaries of the car in an image
