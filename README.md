@@ -25,6 +25,7 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 
 ### Semantic Segmentation:
 * [UNet](Implementation/Semantic_Segmentation/UNet)
+
 Kaggle
 ======
 Kaggle competitions
