@@ -5,3 +5,4 @@ Exercise | Concepts | Tools
 [Features and Image Segmentation](1_6_Types_of_Features_and_Image_Segmentation) | Harris corner and contour detection, k-means color clustering | OpenCV
 [Feature Vectors](1_7_Feature_Vectors) | ORB, HOG, feature vectors | OpenCV
 [CNN Layers and Feature Visualization](1_8_CNN_Layers_and_Feature_Visualization) | FashionMNIST | Pytorch
+[YOLO](3_2_YOLO) | YOLO | Pytorch
