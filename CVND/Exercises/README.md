@@ -6,3 +6,4 @@ Exercise | Concepts | Tools
 [Feature Vectors](1_7_Feature_Vectors) | ORB, HOG, feature vectors | OpenCV
 [CNN Layers and Feature Visualization](1_8_CNN_Layers_and_Feature_Visualization) | FashionMNIST | Pytorch
 [YOLO](3_2_YOLO) | YOLO | Pytorch
+[Long Short Term Memory Networks](3_4_Long_Short-Term_Memory_Networks) | LSTM | Pytorch
