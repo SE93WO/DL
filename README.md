@@ -24,6 +24,7 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 * [MobileNet](Implementation/Architectures/MobileNet)
 
 ### Semantic Segmentation:
+* [FCN](Implementation/Semantic_Segmentation/FCN)
 * [UNet](Implementation/Semantic_Segmentation/UNet)
 
 Kaggle
