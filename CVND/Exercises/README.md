@@ -8,3 +8,4 @@ Exercise | Concepts | Tools
 [YOLO](3_2_YOLO) | YOLO | Pytorch
 [Long Short Term Memory Networks](3_4_Long_Short-Term_Memory_Networks) | LSTM | Pytorch
 [Attention Mechanisms](3_6_Attention_Mechanisms) | Attention model | Pytorch
+[Introduction to Motion](4_1_Introduction_to_Motion) | Shi-Tomasi corner detector | OpenCV
