@@ -25,8 +25,12 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 
 ### Semantic Segmentation:
 * [FCN](Implementation/Semantic_Segmentation/FCN)
-* [UNet](Implementation/Semantic_Segmentation/UNet)
 * [SegNet](Implementation/Semantic_Segmentation/SegNet)
+* [UNet](Implementation/Semantic_Segmentation/UNet)
+
+### Generative adversarial networks
+* [GAN](Implementation/Generative_adversarial_networks/GAN)
+* [DCGAN](Implementation/Generative_adversarial_networks/DCGAN)
 
 Kaggle
 ======
