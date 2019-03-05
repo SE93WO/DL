@@ -30,6 +30,7 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 
 ### Generative adversarial networks
 * [GAN](Implementation/Generative_adversarial_networks/GAN)
+* [DCGAN](Implementation/Generative_adversarial_networks/DCGAN)
 
 Kaggle
 ======
