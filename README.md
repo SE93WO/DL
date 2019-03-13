@@ -16,7 +16,7 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
  
 ### Architectures:
 * [Alexnet](Implementation/Architectures/Alexnet)
-* [VGG16](Implementation/Architectures/VGG16)
+* [VGG](Implementation/Architectures/VGG16)
 * [GoogLeNet](Implementation/Architectures/GoogLeNet)
 * [Resnet](Implementation/Architectures/Resnet)
 * [Inception](Implementation/Architectures/Inception)
