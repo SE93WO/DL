@@ -1,4 +1,4 @@
 * Xception for Image Classification
 
-- TensorFlow implementation of [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)
+- TensorFlow implementation of [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/pdf/1610.02357.pdf)  
 ![image](images/img_001.png)
