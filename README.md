@@ -29,8 +29,8 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 * [UNet](Implementation/Semantic_Segmentation/UNet)
 
 ### Generative adversarial networks
-* [GAN](Implementation/Generative_adversarial_networks/GAN)
-* [DCGAN](Implementation/Generative_adversarial_networks/DCGAN)
+* [GAN](Implementation/Ganerative_adversarial_network/GAN)
+* [DCGAN](Implementation/Ganerative_adversarial_network/DCGAN)
 
 Kaggle
 ======
