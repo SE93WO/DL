@@ -27,7 +27,6 @@ CV papers implement a Deep Learning Paper to get some hands on the current state
 * [FCN](Implementation/Semantic_Segmentation/FCN)
 * [SegNet](Implementation/Semantic_Segmentation/SegNet)
 * [UNet](Implementation/Semantic_Segmentation/UNet)
-* [PSPNet]
 
 ### Generative adversarial networks
 * [GAN](Implementation/Ganerative_adversarial_network/GAN)
