@@ -1,6 +1,6 @@
 Implementation
 ==============
-CV papers implement a Deep Learning Paper to get some hands on the current state of the art model or current field of research.
+Machine learning papers implement a Deep Learning Paper to get some hands on the current state of the art model or current field of research.
  
 ### Architectures:
 * [Alexnet](Implementation/Architectures/Alexnet)
