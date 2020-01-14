@@ -1,17 +1,14 @@
-### Architectures:
-* [Alexnet](Implementation/Architectures/Alexnet)
-* [VGG](Implementation/Architectures/VGG)
-* [GoogLeNet](Implementation/Architectures/GoogLeNet)
-* [Resnet](Implementation/Architectures/Resnet)
-* [Inception](Implementation/Architectures/Inception)
-* [Xception](Implementation/Architectures/Xception)
-* [MobileNet](Implementation/Architectures/MobileNet)
-
-### Semantic Segmentation:
-* [FCN](Implementation/Semantic_Segmentation/FCN)
-* [SegNet](Implementation/Semantic_Segmentation/SegNet)
-* [UNet](Implementation/Semantic_Segmentation/UNet)
-
-### Generative adversarial networks
-* [GAN](Implementation/Ganerative_adversarial_network/GAN)
-* [DCGAN](Implementation/Ganerative_adversarial_network/DCGAN)
+Category | Year | Title | Link
+:---: | :---: | --- | :---: 
+Image Classification|2012|ImageNet Classification with Deep Convolutional Neural Networks|[AlexNet](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+Image Classification|2014|Very Deep Convolutional Networks for Large-Scale Image Recognition|[VGGNet](https://arxiv.org/pdf/1409.1556.pdf)
+Image Classification|2015|Going Deeper with Convolutions|[GoogleNet](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Szegedy_Going_Deeper_With_2015_CVPR_paper.pdf)
+Image Classification|2015|Deep Residual Learning for Image Recognition|[ResNet](https://arxiv.org/pdf/1512.03385.pdf)
+Image Classification|2015|Rethinking the Inception Architecture for Computer Vision|[Inception_V2](https://arxiv.org/pdf/1512.00567.pdf)
+Image Classification|2016|Xception: Deep Learning with Depthwise Separable Convolutions|[Xception](https://arxiv.org/pdf/1610.02357.pdf)
+Image Classification|2017|MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|[MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
+Semantic Segmentation|2015|Fully Convolutional Networks for Semantic Segmentation|[FCN](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn)
+Semantic Segmentation|2015|U-Net: Convolutional Networks for Biomedical Image Segmentation|[U-Net](https://arxiv.org/pdf/1505.04597.pdf)
+Semantic Segmentation|2016|SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation|[SegNet](https://arxiv.org/pdf/1511.00561.pdf])
+Image Generation|2014|Generative Adversarial Nets|[GAN](https://arxiv.org/pdf/1406.2661.pdf)
+Image Generation|2015|Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks|[DCGAN](https://arxiv.org/pdf/1511.06434.pdf)
