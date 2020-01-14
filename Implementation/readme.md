@@ -9,7 +9,7 @@ No. | Year | Title | PDF
 5|2015|Rethinking the Inception Architecture for Computer Vision|[Inception_V2](https://arxiv.org/pdf/1512.00567.pdf)
 6|2016|Xception: Deep Learning with Depthwise Separable Convolutions|[Xception](https://arxiv.org/pdf/1610.02357.pdf)
 7|2017|MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications|[MobileNet](https://arxiv.org/pdf/1704.04861.pdf)
-
+8|2019|Drop an Octave: Reducing Spatial Redundancy in Convolutional Neural Networks with Octave Convolution|[OctConv](https://arxiv.org/pdf/1904.05049.pdf)
 ## Semantic Segmentation
 No. | Year | Title | PDF
 :---: | :---: | --- | :---: 
